@@ -19,6 +19,6 @@ Analyze bike sales data to identify trends and key performance metrics.
 
 ### Files
 - Bike_Sales_Dashboard.xlsx – Interactive dashboard
-- 
+
 ## Dashboard Preview
 ![Excel Sales Dashboard](Dashboard.png)
